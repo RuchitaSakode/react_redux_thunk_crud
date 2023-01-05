@@ -16,7 +16,7 @@ export default function UserList() {
         <tbody>
           <tr>
             <th>Id</th>
-            <th>First Name</th>
+            <th>My First Name</th>
             <th>Last Name</th>
             {/* <th>Email</th> */}
             <th>Action</th>
